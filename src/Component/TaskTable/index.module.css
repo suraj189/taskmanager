@@ -1,0 +1,8 @@
+.taskTable {
+    width: 40%;
+    margin: 0 auto;
+}
+
+.filter {
+    display: flex;
+}
